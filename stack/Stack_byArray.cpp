@@ -1,4 +1,4 @@
-// This code is reference from http://alrightchiu.github.io/SecondRound/stack-yi-arrayyu-linked-listshi-zuo.html
+// This code reference from: http://alrightchiu.github.io/SecondRound/stack-yi-arrayyu-linked-listshi-zuo.html
 
 // C++ code
 #include <iostream>
